@@ -1,4 +1,4 @@
-# Ngoc Chuong Nguyen
+# Ngoc Chuong Nguyen (Shin)
 ## Hi I'm Chuong, Nice to meet You!
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
